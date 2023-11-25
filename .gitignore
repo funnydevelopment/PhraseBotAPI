@@ -1,0 +1,10 @@
+*.pyc
+*.json
+*.csv
+*.tsv
+*.env
+
+__pycache__/
+venv/
+.idea/
+.vscode/
